@@ -8,6 +8,9 @@
 .mrswho img { width: 330px; height: auto; } 
 .it {width: 330px; padding: 5px; border: 1px solid #e8e8e8; }
 .it iframe { width: 330px; height: auto; }
+.polyokeefe { width: 300px; margin-left: 10px; text-align: justify; font-family: 'Poppins', sans-serif; font-weight: 400; text-transform: lowercase; font-size: 12px; color: #808080; letter-spacing: 5px; line-height: 100%; padding: 10px; }
+.mrmurry { width: 40px; font-family: 'Arial', sans-serif; font-weight: 900; text-transform: lowercase; font-size: 60px; letter-spacing: -2px; line-height: 20%; color: #e8e8e8; text-shadow: 1px 1px 5px #484848; padding-top: 25px; float: right; }
+.mrsmurry { width: 330px; height: auto; padding: 5px; border: 1px solid #e8e8e8; background-color: #fff; } 
 .happymedium { width: 336px; padding: 5px; border: 2px solid #e8e8e8; background-color: #e8e8e8; }
 .charleswallace { width: 270px; margin-left: 10px; text-align: right; font-family: 'Poppins', sans-serif; font-weight: 900; text-transform: lowercase; font-size: 30px; letter-spacing: -2px; line-height: 20%; color: #e8e8e8; text-shadow: 1px 1px 5px #484848; padding-top: 15px; }
 .charleswallace ms { display: block; text-shadow: 0px 0px 0px #f5f5f5; font-weight: 200; text-transform: uppercase; font-size: 10px; color:#484848; letter-spacing: 7px; line-height: 100%; padding-bottom: 5px; }
